@@ -1,0 +1,26 @@
+[
+    {
+      "base_name": "Тестова 1",
+      "base_id": "test_1",
+      "URL_main_menu": "https://drive.google.com/file/d/1vAKawtQJSqdjX8v_lR2R5ffxBWMzjZ2o/view?usp=drive_link",
+      "URL_lists": "",
+      "URL_elements": "",
+      "URL_reports": ""          
+    },
+    {
+      "base": "Тестова 2",
+      "base_id": "test_2",
+      "URL_main_menu": "",
+      "URL_lists": "",
+      "URL_elements": "",
+      "URL_reports": ""          
+  },
+    {
+      "base": "Тестова 3",
+      "base_id": "test_3",
+      "URL_main_menu": "https://drive.google.com/file/d/1vAKawtQJSqdjX8v_lR2R5ffxBWMzjZ2o/view?usp=drive_link",
+      "URL_lists": "",
+      "URL_elements": "",
+      "URL_reports": ""          
+    }
+  ]
